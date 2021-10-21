@@ -7,8 +7,6 @@
 
 body {
     font-family: "Montserrat",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    font-size: 1rem;
-    font-weight: 400;
     color: #777;
 }
 
@@ -34,7 +32,11 @@ body {
         background-color: #FFD500;
         border-radius: 12px;
     }
-    
+
+    .messengers{
+        margin-left: 26px;
+
+    }
     
     .font-icon{
         font-size: 30px;
