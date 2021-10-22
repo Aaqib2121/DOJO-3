@@ -48,7 +48,6 @@ body{
             font-size: 30px;
             color: white;
             padding-top: 7px;
-            position: absolute;
         }
     
         .parent{
@@ -87,7 +86,7 @@ body{
         }
         
         .stuff-img{
-            height: 330px;
+            height: 350px;
             border-radius: 12px;
             
         }
@@ -121,6 +120,7 @@ body{
         .stuff-para-1{
             float: right;
             padding-top: 20px;
+            padding-right: 5px;
             justify-content: center;
             color: black;
             font-weight: 900;
@@ -131,7 +131,7 @@ body{
     
     @media screen {
         .listing-blocks{
-            width: 330px;
+            width: 320px;
             height: 50px;
             background-color: #FFD500;
             border-radius: 12px;
@@ -145,13 +145,13 @@ body{
         
         .listing-font-1{
             padding-top: 10px;
-            padding-right: 60px ;
+            padding-right: 40px ;
         
         }
         
         .leasting-icon{
             color: white;
-            font-size: 33px;
+            font-size: 27px;
             padding-left: 40px;
             padding-top: 9px;
         }
@@ -159,7 +159,7 @@ body{
         
         .leasting-icon-2{
             color: white;
-            font-size: 33px;
+            font-size: 30px;
             padding-left: 50px;
             padding-top: 9px;
         }
@@ -185,7 +185,7 @@ body{
         
         .listing-3{
             font-size: 38px;
-            padding-right: 50px;
+            padding-left: 20px;
         }
         
         
