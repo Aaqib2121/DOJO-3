@@ -87,15 +87,17 @@ body{
         }
         
         .stuff-img{
-            height: 440px;
+            height: 330px;
             border-radius: 12px;
             
         }
         
         .stuff-para{
             color: black;
-            font-weight: 400;
+            font-size: 15px;
             padding-top: 5px;
+            /* font-weight: 400; */
+            /* padding-top: 5px; */
         }
         
         .stuff-image{
@@ -109,7 +111,7 @@ body{
         
         .stuff-img-1{
              width: 330px; 
-             height: 150px;
+             height: 130px;
             padding: 13px;
             border-radius: 12px;
         } 
@@ -129,8 +131,8 @@ body{
     
     @media screen {
         .listing-blocks{
-            width: 380px;
-            height: 55px;
+            width: 330px;
+            height: 50px;
             background-color: #FFD500;
             border-radius: 12px;
         }
